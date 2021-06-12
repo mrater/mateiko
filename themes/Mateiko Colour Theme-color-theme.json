@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.background": "#1f2a31",
 		"editor.foreground": "#b5d3df",
-		"panel.background": "#232e38",
+		"panel.background": "#232e38", //cos nie działa
 		"activityBarBadge.background": "#337383",
 		"sideBarTitle.foreground": "#337383",
 		"titleBar.activeBackground": "#222c36",
