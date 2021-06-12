@@ -1,0 +1,21 @@
+{
+    "name": "mateiko",
+    "displayName": "Mateiko",
+    "description": "lorem ipsum",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mateiko Colour Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mateiko Colour Theme-color-theme.json"
+            }
+        ]
+    }
+}
