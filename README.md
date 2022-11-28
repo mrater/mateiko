@@ -1,4 +1,3 @@
-# README
 ## Mateiko Theme
 Dark colour theme for Visual Studio Code.
 
